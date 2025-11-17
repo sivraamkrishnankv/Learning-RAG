@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+.cursorignore
+.cursorrules
+.cursorignore
+.cursorrules
+.cursorignore
+data/vector_store/
