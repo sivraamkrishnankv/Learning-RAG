@@ -8,3 +8,5 @@ sentence-transformers
 faiss-cpu
 chromadb
 hf_xet
+langchain-google-genai
+python-dotenv

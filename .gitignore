@@ -6,3 +6,4 @@
 .cursorrules
 .cursorignore
 data/vector_store/
+.env
