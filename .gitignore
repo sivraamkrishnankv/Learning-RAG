@@ -7,3 +7,4 @@
 .cursorignore
 data/vector_store/
 .env
+faiss_store
