@@ -29,6 +29,12 @@ Documents → Text Chunks → Embeddings → Faiss Vector Store → Query → Re
 - Semantic search with top-k retrieval and distance metadata
 - Gemini-powered summarization grounded in retrieved context
 
+## ✨ Execution Method
+
+- Create a virtual env and download all requirements from `requirements.txt`
+- add pdfs or any other previously metnioned files to `data` folder
+- Run `app.py` file to initiate vector DB creation followed by query searching
+- make sure to add `.env` folder with valid gemini api key in the name of `GEMINI_API_KEY`
 ---
 
 **Made with ❤️ by SIV RAAM KRISHNAN.K.V**
